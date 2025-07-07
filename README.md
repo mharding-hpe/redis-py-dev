@@ -1,6 +1,6 @@
 # redis-py
 
-The Python interface to the Redis key-value store.
+The Python interface to the Redis key-value store!
 
 [![CI](https://github.com/redis/redis-py/workflows/CI/badge.svg?branch=master)](https://github.com/redis/redis-py/actions?query=workflow%3ACI+branch%3Amaster)
 [![docs](https://readthedocs.org/projects/redis/badge/?version=stable&style=flat)](https://redis.readthedocs.io/en/stable/)
